@@ -13,39 +13,6 @@ Built using **MongoDB, Express.js, React, Node.js, Tailwind CSS v4, and Vite**, 
 
 
 
-
-## 🔐 Authentication
-
-![Authentication](./screenshots/authentication.png)
-
-Secure login and registration system powered by **JWT Authentication** and **bcrypt password hashing**.
-
----
-
-## 📊 Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
-
-View coding sessions, total coding time, technologies used, and productivity statistics.
-
----
-
-## ➕ Create Session
-
-![Create Session](./screenshots/create-session.png)
-
-Log a new development session with title, technologies, duration, notes, and date.
-
----
-
-## 📋 Session History
-
-![Session History](./screenshots/session-history.png)
-
-Browse all coding sessions with filtering, deletion, and detailed session information.
-
----
-
 # ✨ Features
 
 ### 🔐 Authentication
